@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "./cretes/libs/*",
+    "./cretes/samples/*",
+    # "./cretes/targets/*",
+]
